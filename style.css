@@ -1,0 +1,137 @@
+ body {
+      background-color: #fdfdfd;
+      font-family: Arial, sans-serif;
+    }
+
+    .breadcrumb-bg {
+      background-color: #f9f1e7;
+      padding: 20px;
+    }
+
+    .breadcrumb a {
+      text-decoration: none;
+      color: #333;
+    }
+
+    .product-main-img {
+      border-radius: 10px;
+      background-color: #f9f1e7;
+      padding: 20px;
+    }
+
+    .thumbnails img {
+      width: 60px;
+      margin-bottom: 15px;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+    .color-circle {
+      width: 25px;
+      height: 25px;
+      border-radius: 50%;
+      display: inline-block;
+      margin-right: 10px;
+      border: 2px solid #ccc;
+      cursor: pointer;
+    }
+
+    .color-black { background-color: black; }
+    .color-purple { background-color: #9e86ff; }
+    .color-gold { background-color: goldenrod; }
+
+    .btn-size {
+      border: 1px solid #ccc;
+      margin-right: 10px;
+      padding: 5px 15px;
+      border-radius: 5px;
+      background: white;
+    }
+
+    .product-details p {
+      margin: 5px 0;
+    }
+
+    .quantity-input {
+      width: 80px;
+      text-align: center;
+    }
+
+    .navbar {
+      background-color: white;
+    }
+
+    .navbar-brand {
+      font-weight: bold;
+      color: #222;
+    }
+.tab-button {
+      background: none;
+      border: none;
+      font-size: 1.1rem;
+      font-weight: 500;
+      margin-right: 30px;
+      padding: 10px 0;
+      color: #777;
+      cursor: pointer;
+    }
+
+    .tab-button.active {
+      color: black;
+      border-bottom: 2px solid black;
+    }
+
+    .product-desc {
+      color: #555;
+      font-size: 15px;
+      margin-top: 20px;
+      margin-bottom: 30px;
+    }
+
+    .product-img-box {
+      background-color: #f9f1e7;
+      border-radius: 12px;
+      padding: 30px;
+      text-align: center;
+    }
+
+    .product-img-box img {
+      max-width: 100%;
+      height: auto;
+    }
+     .footer {
+      padding: 60px 0;
+      border-top: 1px solid #eee;
+    }
+    .footer h5 {
+      color: #b0b0b0;
+      font-weight: 500;
+    }
+    .footer a {
+      display: block;
+      margin-bottom: 10px;
+      color: black;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    .subscribe-input {
+      border: none;
+      border-bottom: 1px solid black;
+      outline: none;
+      padding: 5px;
+      width: 100%;
+      background: transparent;
+    }
+    .subscribe-btn {
+      border: none;
+      border-bottom: 1px solid black;
+      background: transparent;
+      font-weight: bold;
+      margin-left: 10px;
+    }
+    .logo {
+      font-size: 24px;
+      font-weight: bold;
+    }
